@@ -1,0 +1,1 @@
+初始化：rte_eal_intr_init  创建 eal_intr_thread_main线程
